@@ -1,4 +1,5 @@
 # map layout
+[< back](README.md)
 In TimeQuest, the game board consists of a series of time period tiles that are connected to form a circular layout. Each time period tile represents a specific era in history and has its own unique resources, events, and quests. Here's a more detailed description of the map/tile layout:
 
 1. Circular Layout: The time period tiles are arranged in a circle, creating a continuous loop that players can travel through during the game. This circular layout allows players to move forward or backward in time without any barriers, and it ensures that every era is connected to two other time periods.
