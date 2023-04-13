@@ -1,4 +1,4 @@
-[< back](README.md)
+[Back](../TimeQuest/)
 
 Pay: 2 X resources and 1 Y resource
 Gain: 2 Time Crystals
