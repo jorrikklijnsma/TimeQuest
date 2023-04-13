@@ -1,7 +1,9 @@
-[Back](../)
+[Back](../TimeQuest/)
 
 # **Action Cards**
+
 ## One-time use discard cards:
+
 | Name                      | Effect                                                                                                                                                                       |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Time Manipulator:**     | _The player can move to any location on the Time Map once without spending Time Crystals. Discard after use._                                                                |
