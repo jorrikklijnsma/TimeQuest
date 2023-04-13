@@ -1,7 +1,7 @@
 
 # additional info:
 
-[< back](README.md)
+[< back](/TimeQuest/)
 ## Figure 1:
 
 | Era                   | Only payments     | Only gains        |
