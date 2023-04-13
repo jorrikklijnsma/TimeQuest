@@ -1,4 +1,4 @@
-[Back](../README.md)
+[Back](../)
 
 # **Action Cards**
 ## One-time use discard cards:
