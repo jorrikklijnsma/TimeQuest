@@ -1,6 +1,7 @@
+[Back](../TimeQuest/)
+
 # Characters
 
-[< back](README.md)
 ## 1. Amara "The Archivist" Jones
 A brilliant historian and archivist, Amara specializes in using her knowledge of the past to guide the team. She can swiftly gather Knowledge resources and deduce vital clues from ancient texts.
 
