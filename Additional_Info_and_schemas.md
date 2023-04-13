@@ -1,6 +1,7 @@
 
 # additional info:
 
+[< back](README.md)
 ## Figure 1:
 
 | Era                   | Only payments     | Only gains        |
