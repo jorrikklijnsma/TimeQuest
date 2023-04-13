@@ -1,9 +1,9 @@
 # TimeQuest
 
 ## The story
-    In the distant future, Earth is threatened by a catastrophic event known as the Chrono Collapse, which could unravel the fabric of time itself. As the last hope for humanity, an elite team of time travelers called the Chrono Protectors is assembled. These brave souls must embark on a journey through time, unraveling the mystery behind the Collapse and collecting Time Crystals to prevent it from happening.
+In the distant future, Earth is threatened by a catastrophic event known as the Chrono Collapse, which could unravel the fabric of time itself. As the last hope for humanity, an elite team of time travelers called the Chrono Protectors is assembled. These brave souls must embark on a journey through time, unraveling the mystery behind the Collapse and collecting Time Crystals to prevent it from happening.
 
-    Each player takes on the role of one of the Chrono Protectors, each with unique abilities and backgrounds. Together, they must face the challenges of the past, present, and future, while completing quests and forming alliances with the inhabitants of each era.
+Each player takes on the role of one of the Chrono Protectors, each with unique abilities and backgrounds. Together, they must face the challenges of the past, present, and future, while completing quests and forming alliances with the inhabitants of each era.
 
 ## Objective
 
