@@ -1,6 +1,7 @@
 
 # **Personal Objectives**
 
+[< back](README.md)
 the Objectives are
 ### Time Navigator
 Successfully travel to each time period at least once during the game.
