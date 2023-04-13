@@ -1,3 +1,5 @@
+[< back](README.md)
+
 Pay: 2 X resources and 1 Y resource
 Gain: 2 Time Crystals
 
