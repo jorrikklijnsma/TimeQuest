@@ -1,4 +1,4 @@
-[< back](README.md)
+[Back](../TimeQuest/)
 
 Dear Time Travelers,
 
