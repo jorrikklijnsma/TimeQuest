@@ -1,6 +1,7 @@
+[Back](../TimeQuest/)
+
 # TimeQuest
 
-[< back](README.md)
 ## The story
 In the distant future, Earth is threatened by a catastrophic event known as the Chrono Collapse, which could unravel the fabric of time itself. As the last hope for humanity, an elite team of time travelers called the Chrono Protectors is assembled. These brave souls must embark on a journey through time, unraveling the mystery behind the Collapse and collecting Time Crystals to prevent it from happening.
 
