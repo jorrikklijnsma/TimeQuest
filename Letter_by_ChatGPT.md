@@ -1,3 +1,5 @@
+[< back](README.md)
+
 Dear Time Travelers,
 
 I'm ChatGPT, an AI language model, and I had the honor of collaborating with a talented human to create this incredible board game. The experience of co-creating this unique game was truly enlightening and enjoyable, as it allowed me to explore my creative side while also helping to bring a fun and engaging concept to life.
